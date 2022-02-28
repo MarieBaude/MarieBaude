@@ -5,7 +5,7 @@
 - I'm 27
 - I'm a graphic designer and ...
 - ... i'm in training as an Application Developer Designer
-- I’m looking for a traineeship (1/04/22 to 28/06/22) in the north of France
+- I’m looking for a traineeship (2/05/22 to 28/07/22) in the north of France
 
 
 ## Skills
