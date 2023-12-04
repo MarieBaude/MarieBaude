@@ -3,7 +3,6 @@
 - My name is Marie
 - I'm 28
 - I'm a junior front-end developer
-- I'm looking for a job in Lille
 
 ### [My portfolio](https://mariebaude.netlify.app)
 
