@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 - My name is Marie
-- I'm 28
+- I'm 29
 - I'm a junior front-end developer
-
-### [My portfolio](https://mariebaude.netlify.app)
 
 
 ## Skills
